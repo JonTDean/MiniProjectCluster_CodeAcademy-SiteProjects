@@ -11,8 +11,14 @@
 2. Does not contain CSS.
 3. Does not contain JS.
 
-### Wine Festival Schedule:
+### Wine Festival Schedule
 
 1. Contains HTML.
 2. Contains CSS, the CSS I did not make, the site had us use a template to prettify the HTML we made.
+3. Does not contain JS.
+
+### Healthy Recipes
+
+1. Contains HTML. The site had us use an HTML Template.
+2. Contains CSS.
 3. Does not contain JS.
