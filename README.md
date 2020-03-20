@@ -19,6 +19,18 @@
 
 ### Healthy Recipes
 
-1. Contains HTML. The site had us use an HTML Template.
+1. Contains HTML. The site uses an HTML Template.
+2. Contains CSS.
+3. Does not contain JS.
+
+### Olivia Wood Portfolio
+
+1. Contains HTML. The site uses an HTML Template.
+2. Contains CSS.
+3. Does not contain JS.
+
+### Dasmoto's Arts & Crafts
+
+1. Contains HTML.
 2. Contains CSS.
 3. Does not contain JS.
