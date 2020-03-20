@@ -1,8 +1,41 @@
+/* Entire Page styles*/
+h2{
+    font-family: Helvetica;
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+}
+
+p.prices{
+    font-family: Helvetica;
+    font-weight: bold;
+    color:blue;
+}
+
+/* Title CSS Style */
 h1#title{
     font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url(image/pattern.jpeg);
+    background-image: url(images/pattern.jpeg);
+}
+
+/* Brush Section */
+h2#brushes{
+    color:white;
+    background-color: mediumspringgreen;
+}
+
+/* Frame Section */
+h2#frames{
+    color: white;
+    background-color: lightcoral;
+}
+
+/* Paint Section */
+h2#paint{
+    color:white;
+    background-color: skyblue;
 }
