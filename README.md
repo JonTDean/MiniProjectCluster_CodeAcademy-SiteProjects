@@ -68,3 +68,19 @@
 3. Does not contain JS.
 
 * While learning about how to functionally organize boxes around an HTML page using css, this project gave a good rendition on CSS syntax and how to use it in the page, it also explained box properties in a concise manner (I.E. Margins, padding, borders.).
+
+### Broadway
+
+1. Contains HTML. The site uses an HTML Template.
+2. Contains CSS. The site uses a CSS Template.
+3. Does not contain JS.
+
+* While I did use templates for the css and the HTML, I honestly feel like I learned more from this project then I did from the previous ones. I had to learn how to position blocks and basically just do overall page positioning/styling. It was very useful and I learned a couple of new tricks. For example to set a sticky footer one way to do it is like this:
+
+```CSS
+elementName{
+ position:fixed;
+ bottom: 0;
+ width: 100%;
+}
+```
