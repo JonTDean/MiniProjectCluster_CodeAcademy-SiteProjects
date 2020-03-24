@@ -60,3 +60,11 @@
 3. Does not contain JS.
 
 * All I did was adjust the font types on the page and stylize it to the specifications of the design sheet.
+
+### Davie's Burgers
+
+1. Contains HTML. The site uses an HTML Template.
+2. Contains CSS. The site uses a CSS Template.
+3. Does not contain JS.
+
+* While learning about how to functionally organize boxes around an HTML page using css, this project gave a good rendition on CSS syntax and how to use it in the page, it also explained box properties in a concise manner (I.E. Margins, padding, borders.).
